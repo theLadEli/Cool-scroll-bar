@@ -69,3 +69,12 @@ p {
     animation: animate 5s linear infinite;
     filter: blur(30px);
 }
+
+#copyright p {
+    text-align: center;
+    padding-top: 10px;
+}
+
+#copyright a {
+    color: #86cef2;
+}
